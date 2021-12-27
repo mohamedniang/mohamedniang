@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohamedniang
-- 👀 I’m interested in ... everything that's remotely close do programming.
+- 👀 I’m interested in ... everything that's remotely close to programming.
 - 🌱 I’m currently learning ... nuxt, nest, typeorm, websocket, git.
 - 💞️ I’m looking to collaborate on ... everything
 - 📫 How to reach me ... mouhamedniang1997@gmail.com
